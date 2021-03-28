@@ -1,20 +1,26 @@
 # Product Title
 Xtender: Authoring and Content Management Tool.
-# Prerequisites
+
+## Prerequisite Information
 THe user must be an employee of Xtender associated company to access this application.
-# Installation
+
+## Installation and Configuration
 Go through the **Xtender Installation Guide** to install the applicaiton on the local machine.
-# Version
-Install the later version- v1.03: New UI and UX flow implemented.
-# Product Scope
-This document will help the user, especially the procdut writer, to develop and maintain content and microsites.
-# Content Developemt on Xtender
-1) Open **Xtender** > **Content** > **Add** **New** **Content**
-2) Xtender opens a new content page for a writer to develop a microsite
-3) Enter Title, Short Description, Lond Description, Manufacturer, Writer, and Priority.
-4) Click **Verify** > **Save** 
-5) The microsite is associated to a new ID.
-# License
-Xtender is licensed for internal usage only.
-# Acknowledgments
-Test README file
+
+## Version
+Version 1.03
+
+## Product Scope
+This document will help users especially the Product Document Writer to develop and maintain content and microsites.
+
+## Content Developemt on Xtender
+The **Xtendeder** Content Developer is used in developing Microsites. Please refere to the User Manual for more details. 
+
+## License
+This product and all its components are intended for internal usage only.
+
+## Acknowledgments
+1. Product Management Team
+2. Product Development Team
+3. Quality Engineering Team
+4. Technical Documentation Team
